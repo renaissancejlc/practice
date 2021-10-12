@@ -1,13 +1,13 @@
 # Group 19 Meeting Minutes #
-## Date: 10-12-2021     Location: CSE Building 2217     Note Taker: Reny ##
+## Date: 10-12-2021##
+## Location: CSE Building 2217 ##
+     Note Taker: Reny 
 
-|Meeting called by: |Hema (TA) |
-|---|---|---|
-|Type of meeting: |Introductory Team Meeting |
+**Meeting called by:** Hema (TA) 
+**Type of meeting:** Introductory Team Meeting 
 --------------------------------------
 
 Attendees:
-
 - Hema (TA) 
 - Nicholas(Lead) 
 - George(Lead) 
