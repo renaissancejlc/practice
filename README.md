@@ -10,8 +10,6 @@
 
 ## Minutes ##
 
-------------
-
 ### Agenda Item:    Introductions ###
 
 **Discussion:**  
@@ -70,7 +68,8 @@ We should assign roles at our next meeting.
 ## Other Information ##
 Make sure that we are answering questions in class! They are worth points, so don’t be shy to answer them.
 
-Attendees:
+## Attendees: ##
+
 - Hema (TA) 
 - Nicholas(Lead) 
 - George(Lead) 
