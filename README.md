@@ -9,6 +9,9 @@
 --------------------------------------
 
 ## Minutes ##
+
+------------
+
 ### Agenda Item:    Introductions ###
 
 **Discussion:**  
@@ -41,17 +44,11 @@ We hope to add a meeting on Tuesdays and possibly Thursdays at 6:20 pm until 8pm
 Team will have the first kickoff meeting at 6:20. Here we will work on group bonding assignments and plan to complete them by Thursday night.
 
 |Action |Person responsible|Deadline|
-|-----|-----|-----|
 | Bonding Activity| Team Leads|Thursday 11:59pm|
-|-----|-----|-----|
 | Schedule Kickoff Meeting | Team Leads |ASAP |
-|-----|-----|-----|
 | Create a GitHub Repo (add TA as admin) | Unassigned |Thursday 11:59pm |
-|-----|-----|-----|
 | Team Branding | Unassigned |Thursday 11:59pm |
-|-----|-----|-----|
 | Create a team video | Unassigned |Thursday 11:59pm |
-|-----|-----|-----|
 | Create group contract | Unassigned |Thursday 11:59pm |
 
 **Conclusions:**
