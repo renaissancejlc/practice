@@ -1,4 +1,4 @@
-# Group 19 Meeting Minutes #
+[# Group 19 Meeting Minutes #
 ## Date: 10-12-2021 ##
 ## Location: CSE Building 2217 ##
      Note Taker: Reny 
@@ -44,12 +44,10 @@ We hope to add a meeting on Tuesdays and possibly Thursdays at 6:20 pm until 8pm
 Team will have the first kickoff meeting at 6:20. Here we will work on group bonding assignments and plan to complete them by Thursday night.
 
 |Action |Person responsible|Deadline|
-| Bonding Activity| Team Leads|Thursday 11:59pm|
-| Schedule Kickoff Meeting | Team Leads |ASAP |
-| Create a GitHub Repo (add TA as admin) | Unassigned |Thursday 11:59pm |
-| Team Branding | Unassigned |Thursday 11:59pm |
-| Create a team video | Unassigned |Thursday 11:59pm |
-| Create group contract | Unassigned |Thursday 11:59pm |
+|:-----|:-----:|-----:|
+| <ul><li>Bonding Activity</li></ul>| Team Leads|Thursday 11:59pm||:-----|:-----:|-----:|| <ul><li>Schedule Kickoff Meeting</ul></li> | Team Leads |ASAP ||:-----|:-----:|-----:|| <ul><li>Create a GitHub Repo (add TA as admin)</ul></li> | Unassigned |Thursday 11:59pm ||:-----|:-----:|-----:|
+| <ul><li>Team Branding</ul></li> | Unassigned |Thursday 11:59pm ||:-----|:-----:|-----:|
+| <ul><li>Create a team video</ul></li> | Unassigned |Thursday 11:59pm ||:-----|:-----:|-----:|| Create group contract | Unassigned |Thursday 11:59pm |
 
 **Conclusions:**
 Our team needs to commit several hours between now and Thursday to complete these assignments; assigning leaders to assignments would be helpful
