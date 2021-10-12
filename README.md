@@ -1,4 +1,4 @@
-[# Group 19 Meeting Minutes #
+# Group 19 Meeting Minutes #
 ## Date: 10-12-2021 ##
 ## Location: CSE Building 2217 ##
      Note Taker: Reny 
@@ -52,7 +52,23 @@ Team will have the first kickoff meeting at 6:20. Here we will work on group bon
 **Conclusions:**
 Our team needs to commit several hours between now and Thursday to complete these assignments; assigning leaders to assignments would be helpful
 
+-------
+
+### Agenda Item:  Roles Within the Team ###
+
+**Discussion:**  
+Possible Roles include:
+Planner, Developer, Lead, Designer, Tester
+	People will take lead over different stages/areas, but everyone will still be involved in each stage/area
+
+
+**Conclusions:**
+We should assign roles at our next meeting.
+
 -----------------------------------
+
+## Other Information ##
+Make sure that we are answering questions in class! They are worth points, so don’t be shy to answer them.
 
 Attendees:
 - Hema (TA) 
